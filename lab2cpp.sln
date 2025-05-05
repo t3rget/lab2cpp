@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2cpp", "lab2cpp.vcxproj", "{341A8A67-1420-40E1-AB8F-B63809F5C899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Debug|x64.ActiveCfg = Debug|x64
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Debug|x64.Build.0 = Debug|x64
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Debug|x86.ActiveCfg = Debug|Win32
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Debug|x86.Build.0 = Debug|Win32
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Release|x64.ActiveCfg = Release|x64
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Release|x64.Build.0 = Release|x64
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Release|x86.ActiveCfg = Release|Win32
+		{341A8A67-1420-40E1-AB8F-B63809F5C899}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9BA6AD-2CD2-4D40-840E-47B1BB8077F5}
+	EndGlobalSection
+EndGlobal
